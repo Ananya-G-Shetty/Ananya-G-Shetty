@@ -33,12 +33,12 @@
           <br/><sub><b>LinkedIn</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
-        <a href="https://github.com/Ananya-G-Shetty" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-          <br/><sub><b>GitHub</b></sub>
-        </a>
-      </td>
+     <td align="center" width="120">
+<a href="https://github.com/Ananya-G-Shetty">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55"/>
+<br><sub><b>GitHub</b></sub>
+</a>
+</td>
       <td align="center" width="100">
         <a href="mailto:ananyashetty925@gmail.com" target="_blank">
           <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
@@ -211,41 +211,58 @@
 <!-- GitHub Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&theme=tokyonight&hide_border=true&accent_color=A78BFA&title_color=c9a84c&icon_color=A78BFA" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&theme=tokyonight&hide_border=true&title_color=c9a84c&langs_count=8" width="38%" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="180"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&theme=tokyonight&hide_border=true&ring=A78BFA&fire=c9a84c&currStreakLabel=c9a84c" width="60%" alt="GitHub Streak"/>
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
-<!-- Contribution Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=c9a84c&point=ffffff" width="95%" alt="Contribution Graph"/>
 </p>
 
 ---
 
-<!-- Inspirational Quote -->
+<!-- ============== CONTRIBUTION ACTIVITY ============== -->
+
+## 🟣 Contribution Activity
+
 <p align="center">
-  <i>"The mind is not a vessel to be filled, but a fire to be kindled."</i><br/>
-  <b>— Plutarch</b>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&theme=tokyo-night" width="95%"/>
+
 </p>
 
-╔══════════════════════════════════════════════════════╗
-║ ║
-║ ██████╗ ██╗ ██╗██╗██╗ ██████╗ ║
-║ ██╔══██╗██║ ██║██║██║ ██╔══██╗ ║
-║ ██████╔╝██║ ██║██║██║ ██║ ██║ ║
-║ ██╔══██╗██║ ██║██║██║ ██║ ██║ ║
-║ ██████╔╝╚██████╔╝██║███████╗██████╔╝ ║
-║ ╚═════╝ ╚═════╝ ╚═╝╚══════╝╚═════╝ ║
+---
+
+<!-- ================== INSPIRATION ==================== -->
+
+## 💡 Inspiration
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+---
+
+<!-- ================= BUILDING STATUS ================= -->
+
+## 🚀 BUILDING
+
+```text
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
+
+          BUILD • LEARN • CREATE • ITERATE
 ║ ║
 ║ [ STATUS: BUILDING THE FUTURE WITH AI ] ║
 ║ [ Every line of code is a step forward ] ║
