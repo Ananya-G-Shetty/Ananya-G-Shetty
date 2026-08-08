@@ -23,12 +23,12 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" width="120">
-        <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
-          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn"/>
-          <br><sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
+     <td align="center" width="120">
+  <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+    <br><sub><b>LinkedIn</b></sub>
+  </a>
+</td>>
       <td align="center" width="120">
         <a href="https://github.com/Ananya-G-Shetty" target="_blank">
           <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
@@ -60,10 +60,10 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/openai/10A37F" width="55" height="55" alt="OpenAI"/>
-        <br><sub><b>OpenAI</b></sub>
-      </td>
+  <td align="center" width="120">
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI"/>
+  <br><sub><b>OpenAI</b></sub>
+</td>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/>
         <br><sub><b>Gemini</b></sub>
@@ -73,9 +73,9 @@
         <br><sub><b>Claude</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/>
-        <br><sub><b>Groq</b></sub>
-      </td>
+  <img src="https://images.seeklogo.com/logo-png/61/2/groq-logo-png_seeklogo-611926.png" width="55" height="55" alt="Groq"/>
+  <br><sub><b>Groq</b></sub>
+</td>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55" alt="Perplexity"/>
         <br><sub><b>Perplexity</b></sub>
@@ -129,9 +129,9 @@
   <table align="center">
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" style="background-color:white; border-radius:8px; padding:4px;"/>
-        <br><sub><b>Flask</b></sub>
-      </td>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
+  <br><sub><b>Flask</b></sub>
+</td>>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/>
         <br><sub><b>Flutter</b></sub>
@@ -159,9 +159,9 @@
         <br><sub><b>Google Cloud</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="55" height="55" alt="AWS"/>
-        <br><sub><b>AWS</b></sub>
-      </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+  <br><sub><b>AWS</b></sub>
+</td>
     </tr>
   </table>
 </p>
@@ -230,9 +230,10 @@
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0&border_color=0D1117" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_color=0D1117" height="180" alt="Top Languages"/>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC" width="70%" alt="GitHub Streak"/>
