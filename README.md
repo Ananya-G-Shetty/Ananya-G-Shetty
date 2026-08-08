@@ -7,14 +7,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+intelligent+systems%2C+one+model+at+a+time;Exploring+the+intersection+of+AI+%26+real-world+impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&height=60&lines=Building+intelligent+systems%2C+one+model+at+a+time;Exploring+the+intersection+of+AI+%26+real-world+impact" alt="Typing SVG"/>
 </p>
 
 ---
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Ananya-G-Shetty?style=for-the-badge&color=c9a84c&labelColor=0d3b1e&label=FOLLOWERS" alt="Followers"/>
 </p>
