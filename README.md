@@ -1,96 +1,86 @@
-<!-- ===================== HEADER ===================== -->
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ANANYA%20G%20SHETTY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Information%20Science%20Student&descAlignY=58&descSize=20&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+experiences+with+AI;Turning+ideas+into+scalable+digital+solutions" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Ananya-G-Shetty?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="GitHub Followers"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d3b1e,100:c9a84c&text=ANANYA%20G%20SHETTY&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Information%20Science%20Student&descFontColor=f0d080&descFontSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 </p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-## 🔗 Connect With Me
-
+<!-- Typing SVG -->
 <p align="center">
-
-<table align="center">
-<tr>
-
-<td align="center" width="120">
-<a href="https://www.linkedin.com/in/ananya-shetty-76763b328/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55"/>
-<br><sub><b>LinkedIn</b></sub>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/Ananya-G-Shetty">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55"/>
-<br><sub><b>GitHub</b></sub>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="mailto:ananyashetty925@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55"/>
-<br><sub><b>Email</b></sub>
-</a>
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55"/>
-<br><sub><b>Instagram</b></sub>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55"/>
-<br><sub><b>Discord</b></sub>
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" height="55"/>
-<br><sub><b>Portfolio</b></sub>
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55"/>
-<br><sub><b>Kaggle</b></sub>
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55"/>
-<br><sub><b>Resume</b></sub>
-</td>
-
-</tr>
-</table>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+intelligent+systems%2C+one+model+at+a+time;Exploring+the+intersection+of+AI+%26+real-world+impact" alt="Typing SVG"/>
 </p>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Ananya-G-Shetty?style=for-the-badge&color=c9a84c&labelColor=0d3b1e&label=FOLLOWERS" alt="Followers"/>
+</p>
 
-## 🛠️ Tech Stack
+---
 
-### ✨ GenAI / LLMs
+<!-- Connect With Me -->
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+          <br/><sub><b>LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/Ananya-G-Shetty" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+          <br/><sub><b>GitHub</b></sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="mailto:ananyashetty925@gmail.com" target="_blank">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+          <br/><sub><b>Email</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" title="Google Gemini"/>
+---
 
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+### 🤖 GenAI & LLMs
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/>
+        <br/><sub><b>OpenAI</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/>
+        <br/><sub><b>Gemini</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/anthropic/191919" width="55" height="55" alt="Claude"/>
+        <br/><sub><b>Claude</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/>
+        <br/><sub><b>Groq</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/perplexity/20808D" width="55" height="55" alt="Perplexity"/>
+        <br/><sub><b>Perplexity</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -98,36 +88,30 @@
 ### 💻 Languages
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" title="CSS3"/>
-
-</p>
-
----
-
-### 🤖 AI & ML
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" title="Python"/>
-<img src="https://cdn.simpleicons.org/nltk/4A90E2" width="55" height="55" title="NLTK"/>
-
-</p>
-
----
-
-### 📊 Data Science
-
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="55" title="Jupyter"/>
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+        <br/><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
+        <br/><sub><b>C</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
+        <br/><sub><b>Java</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML"/>
+        <br/><sub><b>HTML</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS"/>
+        <br/><sub><b>CSS</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -135,12 +119,22 @@
 ### 🌐 Web & App Dev
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" title="Tailwind CSS"/>
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/>
+        <br/><sub><b>Flask</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/>
+        <br/><sub><b>Flutter</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="55" height="55" alt="TailwindCSS"/>
+        <br/><sub><b>TailwindCSS</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -148,10 +142,18 @@
 ### ☁️ Cloud & Infra
 
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="55" height="55" title="Vercel"/>
-<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" height="55" title="Netlify"/>
-
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/>
+        <br/><sub><b>Google Cloud</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55" alt="AWS"/>
+        <br/><sub><b>AWS</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -159,97 +161,108 @@
 ### 🗄️ Databases
 
 <p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
+        <br/><sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
+        <br/><sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/>
+        <br/><sub><b>SQLite</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" title="SQLite"/>
+---
+
+### 🧰 Dev Tools
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
+        <br/><sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/>
+        <br/><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+        <br/><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+        <br/><sub><b>GitHub</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&theme=tokyonight&hide_border=true&accent_color=A78BFA&title_color=c9a84c&icon_color=A78BFA" width="48%" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&theme=tokyonight&hide_border=true&title_color=c9a84c&langs_count=8" width="38%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&theme=tokyonight&hide_border=true&ring=A78BFA&fire=c9a84c&currStreakLabel=c9a84c" width="60%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- Contribution Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=c9a84c&point=ffffff" width="95%" alt="Contribution Graph"/>
+</p>
+
+---
+
+<!-- Inspirational Quote -->
+<p align="center">
+  <i>"The mind is not a vessel to be filled, but a fire to be kindled."</i><br/>
+  <b>— Plutarch</b>
+</p>
+
+╔══════════════════════════════════════════════════════╗
+║ ║
+║ ██████╗ ██╗ ██╗██╗██╗ ██████╗ ║
+║ ██╔══██╗██║ ██║██║██║ ██╔══██╗ ║
+║ ██████╔╝██║ ██║██║██║ ██║ ██║ ║
+║ ██╔══██╗██║ ██║██║██║ ██║ ██║ ║
+║ ██████╔╝╚██████╔╝██║███████╗██████╔╝ ║
+║ ╚═════╝ ╚═════╝ ╚═╝╚══════╝╚═════╝ ║
+║ ║
+║ [ STATUS: BUILDING THE FUTURE WITH AI ] ║
+║ [ Every line of code is a step forward ] ║
+║ ║
+╚══════════════════════════════════════════════════════╝
+
 
 </p>
 
 ---
 
-### 🔧 Dev Tools
-
+<!-- Footer Banner -->
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" title="Google"/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="55" height="55" title="Figma"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" title="Canva"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:c9a84c,100:0d3b1e&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📈 GitHub Analytics
-
+<!-- ASCII Status Block -->
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</p>
-
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-## 🟣 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&theme=tokyo-night" width="95%"/>
-
-</p>
-
----
-
-<!-- ===================== QUOTE ===================== -->
-
-## 💡 Inspiration
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
-
----
-
-<!-- ===================== BUILDING STATUS ===================== -->
-
-## 🚀 BUILDING
-
-```text
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
-
-          BUILD • LEARN • CREATE • ITERATE
-```
-
-<p align="center">
-  <i>Turning curiosity into code, and ideas into impact.</i>
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%"/>
-</p>
-
-<p align="center">
-  <b>ANANYA G SHETTY</b> • Information Science Student
-</p>
