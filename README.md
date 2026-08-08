@@ -258,7 +258,7 @@
 <h1 align="center">💡 Inspiration</h1>
 
 <p align="center">
-  <i>"The best way to predict the future is to create it."</i>
+  <i>    "The best way to predict the future is to create it."</i>
 </p>
 
 <br/>
@@ -268,7 +268,7 @@
 <!-- ================= BUILDING STATUS ================= -->
 <h1 align="center">🚀 BUILDING</h1>
 
-<pre align="center">  
+<pre align="center">
 ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
 ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
 ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
