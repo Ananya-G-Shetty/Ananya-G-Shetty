@@ -263,23 +263,5 @@
 ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
 
           BUILD • LEARN • CREATE • ITERATE
-║ ║
-║ [ STATUS: BUILDING THE FUTURE WITH AI ] ║
-║ [ Every line of code is a step forward ] ║
-║ ║
-╚══════════════════════════════════════════════════════╝
 
 
-</p>
-
----
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:c9a84c,100:0d3b1e&section=footer&animation=fadeIn" width="100%"/>
-</p>
-
----
-
-<!-- ASCII Status Block -->
-<p align="center">
