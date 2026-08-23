@@ -128,7 +128,7 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 ---
 
 ## 🌱    Currently Learning
-<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192?style=for-the-badge&logo=stackblitz&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
+<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192f?style=for-the-badge&logo=stackblitz&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
 
 ---
 
