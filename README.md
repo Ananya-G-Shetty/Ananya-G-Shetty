@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&label=Profile%20views&color=0a192f&style=for-the-badge" alt="profile-views"/>
+<img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&label=Profile%20views&color=7c4dff&style=for-the-badge&labelColor=0a192f" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cybersecurity-00e5ff?style=for-the-badge&labelColor=0a192f" />
 <img src="https://img.shields.io/badge/Based%20in-Karnataka%2C%20India-7c4dff?style=for-the-badge&labelColor=0a192f" />
 
