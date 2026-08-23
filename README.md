@@ -133,7 +133,7 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>      Connect With Me
-<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-g-shetty/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyagshetty@example.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
+<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyashetty925@gmail.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
 
 ---
 
