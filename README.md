@@ -31,13 +31,13 @@
       </td>
       <td align="center" width="120">
         <a href="https://github.com/Ananya-G-Shetty" target="_blank">
-          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+          <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
           <br><sub><b>GitHub</b></sub>
         </a>
       </td>
       <td align="center" width="120">
         <a href="mailto:ananyashetty925@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+          <img src="https://api.iconify.design/logos:google-gmail.svg" width="55" height="55" alt="Email"/>
           <br><sub><b>Email</b></sub>
         </a>
       </td>
@@ -61,23 +61,23 @@
   <table align="center">
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/>
+        <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="55" height="55" alt="OpenAI"/>
         <br><sub><b>OpenAI</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/>
+        <img src="https://api.iconify.design/logos:google-gemini.svg" width="55" height="55" alt="Gemini"/>
         <br><sub><b>Gemini</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" height="55" alt="Claude"/>
+        <img src="https://api.iconify.design/logos:claude-icon.svg" width="55" height="55" alt="Claude"/>
         <br><sub><b>Claude</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/>
+        <img src="https://api.iconify.design/simple-icons:groq.svg?color=%23F55036" width="55" height="55" alt="Groq"/>
         <br><sub><b>Groq</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55" alt="Perplexity"/>
+        <img src="https://api.iconify.design/logos:perplexity-icon.svg" width="55" height="55" alt="Perplexity"/>
         <br><sub><b>Perplexity</b></sub>
       </td>
     </tr>
@@ -215,7 +215,7 @@
         <br><sub><b>Git</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+        <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
         <br><sub><b>GitHub</b></sub>
       </td>
     </tr>
@@ -227,33 +227,26 @@
 ---
 
 <!-- ================ GITHUB ANALYTICS ================ -->
-## 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC"
-    width="48%"
-    alt="Ananya's GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC"
-    width="48%"
-    alt="Ananya's Top Languages"
-  />
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC&locale=en" alt="Ananya's GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC&locale=en" alt="Ananya's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<br>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ananya-G-Shetty&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC&stroke=1F2937"
-    width="75%"
-    alt="Ananya's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Ananya-G-Shetty&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC&stroke=1F2937" alt="Ananya's GitHub Streak" width="75%"/>
 </p>
 
-<br>
+<br/>
 
 ---
 
