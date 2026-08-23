@@ -29,7 +29,7 @@
 💡 Interests:  Web • Full-Stack • Python • Java • DSA • Cybersecurity • UI/UX <br>
 ⚡ Mindset:    "Build practical things, learn deeply, ship consistently." <br><br>
 I’m an ISE undergrad who genuinely enjoys writing code that solves real problems — from accessibility-first web platforms to SOC analyst dashboards and adaptive learning tools. I spend most of my time exploring modern web stacks, sharpening my problem-solving with DSA, and turning hackathon ideas into working prototypes.
-<br><br>
+<br><br><br><br>
 <table>
   <tr>
     <td align="center">🚀 <b>Currently Building</b><br/><br/>Accessible & AI-powered web apps</td>
@@ -115,7 +115,7 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff" height="165" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff" height="165" />
 
 </div>
