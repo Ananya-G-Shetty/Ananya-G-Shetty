@@ -31,13 +31,13 @@
       </td>
       <td align="center" width="120">
         <a href="https://github.com/Ananya-G-Shetty" target="_blank">
-          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+          <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
           <br><sub><b>GitHub</b></sub>
         </a>
       </td>
       <td align="center" width="120">
         <a href="mailto:ananyashetty925@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+          <img src="https://api.iconify.design/logos:google-gmail.svg" width="55" height="55" alt="Email"/>
           <br><sub><b>Email</b></sub>
         </a>
       </td>
@@ -61,23 +61,23 @@
   <table align="center">
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI"/>
+        <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="55" height="55" alt="OpenAI"/>
         <br><sub><b>OpenAI</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/>
+        <img src="https://api.iconify.design/logos:google-gemini.svg" width="55" height="55" alt="Gemini"/>
         <br><sub><b>Gemini</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" height="55" alt="Claude"/>
+        <img src="https://api.iconify.design/logos:claude-icon.svg" width="55" height="55" alt="Claude"/>
         <br><sub><b>Claude</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/>
+        <img src="https://api.iconify.design/simple-icons:groq.svg?color=%23F55036" width="55" height="55" alt="Groq"/>
         <br><sub><b>Groq</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55" alt="Perplexity"/>
+        <img src="https://api.iconify.design/logos:perplexity-icon.svg" width="55" height="55" alt="Perplexity"/>
         <br><sub><b>Perplexity</b></sub>
       </td>
     </tr>
@@ -129,7 +129,7 @@
   <table align="center">
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="55" height="55" alt="Flask"/>
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
         <br><sub><b>Flask</b></sub>
       </td>
       <td align="center" width="120">
@@ -215,7 +215,7 @@
         <br><sub><b>Git</b></sub>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+        <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
         <br><sub><b>GitHub</b></sub>
       </td>
     </tr>
