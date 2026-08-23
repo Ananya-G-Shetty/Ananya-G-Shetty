@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
 <br>
-👩‍💻 Name:       Ananya G. Shetty <br>
+👩‍💻 Name:       Ananya G Shetty <br>
 🎓 Role:       Information Science & Engineering Student <br>
 🏫 College:    Jawaharlal Nehru New College of Engineering (JNNCE)<br>
 📍 Location:   Karnataka, India<br>
@@ -35,10 +35,11 @@ I’m an ISE undergrad who genuinely enjoys writing code that solves real proble
   <tr>
     <td align="center">🚀 <b>Currently Building</b><br/><br/>Accessible & AI-powered web apps</td>
     <td align="center">🌱 <b>Currently Learning</b><br/><br/>Django • Advanced Python • System Design</td>
-    <td align="center">🎯 <b>2025 Goals</b><br/><br/>Master Full-Stack + DSA</td>
+    <td align="center">🎯 <b>2026 Goals</b><br/><br/>Master Full-Stack + DSA</td>
   </tr>
 </table>
 <br>
+
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>Tech Stack
 <div align="center">
