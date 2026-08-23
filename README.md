@@ -60,7 +60,7 @@ I’m an ISE undergrad who genuinely enjoys writing code that solves real proble
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>      Featured Projects
 <table> <tr> <td width="50%" valign="top">
-🏟️ StadiumSync AI <br>
+🏟️** StadiumSync AI** <br>
 Accessibility-first stadium experience platform for FIFA World Cup 2026. <br><br>
 
 🌐 Multilingual assistance <br>
@@ -70,7 +70,7 @@ Accessibility-first stadium experience platform for FIFA World Cup 2026. <br><br
 Tech: Next.js · TypeScript · Gemini AI <br>
 
 <a href="https://stadium-sync-ai-assistant-7ntq.vercel.app/"> <img src="https://img.shields.io/badge/🔗_Live_Demo-00e5ff?style=for-the-badge&logoColor=0a192f&labelColor=0a192f"/> </a></td> <td width="50%" valign="top">
-🛡️ ThreatMatrix <br>
+🛡️** ThreatMatrix **<br>
 A SOC analyst dashboard for real-time threat monitoring. <br><br>
 
 🔴 Real-time threat monitoring <br>
@@ -79,8 +79,8 @@ A SOC analyst dashboard for real-time threat monitoring. <br><br>
 🧩 Business impact + response recommendations <br>
 Tech: React · Tailwind CSS · Flask <br>
 
-<a href="https://cyber-threat-detection-system.netlify.app/"><img src="https://img.shields.io/badge/Cybersecurity-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td width="50%" valign="top">
-🧠 NeuroLearn — Adaptive Learning <br>
+<a href="https://cyber-threat-detection-system.netlify.app/"><img src="https://img.shields.io/badge/Cybersecurity-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td width="50%" valign="top"><img src="https://img.shields.io/badge/🔗_Live_Demo-00e5ff?style=for-the-badge&logoColor=0a192f&labelColor=0a192f"/> </a></td> <td width="50%" valign="top">
+🧠** NeuroLearn — Adaptive Learning **<br>
 Flask-based platform designed for inclusive learning experiences. <br><br>
 
 📝 Text simplification <br>
@@ -90,7 +90,7 @@ Flask-based platform designed for inclusive learning experiences. <br><br>
 Tech: Python · Flask · NLTK · PyMuPDF <br>
 
 <img src="https://img.shields.io/badge/Accessibility_First-00e5ff?style=for-the-badge&labelColor=0a192f"/></td> <td width="50%" valign="top">
-📚 Library Management System <br>
+📚** Library Management System **<br>
 A Java Swing desktop application with full admin/student flow. <br> <br>
 
 🔐 Admin / Student login <br>
@@ -100,14 +100,14 @@ A Java Swing desktop application with full admin/student flow. <br> <br>
 Tech: Java Swing · SQLite <br>
 
 <a href="https://drive.google.com/file/d/10ne7u9iQupLnIpxCjHXGwk7YIOtvJE_8/view?usp=sharing/"><img src="https://img.shields.io/badge/Desktop_App-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td colspan="2" valign="top">
-🎞️ Algorithm Visualizers <br>
+🎞️** Algorithm Visualizers **<br>
 Interactive simulators built to make algorithms feel visual and intuitive. <br>
 
 <p> <a href="https://bubble-sort-simulator.netlify.app/"> <img src="https://img.shields.io/badge/Bubble_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Merge_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Knapsack_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=7c4dff"/> </p></td> </tr> </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>      Achievements
+## 🚀 Achievements
 <div align="center"><table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏆-Class_Topper_Award-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Recognized as academic topper of the class</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/📊-CGPA_9.55-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Consistent academic excellence</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🥉-Code_Golf_3rd_Place-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Competitive coding challenge</b></sub> </td> </tr> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/💡-HackMalenadu'26-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Shortlisted team participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-Google_Build_with_AI-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Bootcamp + PromptWars participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🚀-Multiple_Hackathons-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Active builder & collaborator</b></sub> </td> </tr> </table></div>
 
 ---
@@ -133,11 +133,11 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 
 ---
 
-## <img src="https://media.giphy.com/media/2Je54ftbxWv3vhHEeS/giphy.gif" width="28"/>A Note from Me
+## A Note from Me
 <div align="center">
 "Every project I build is an attempt to blend clean design, thoughtful engineering, and real-world usefulness.
 I'm still early in my journey — but I'm learning fast, shipping often, and enjoying every bit of it."
 
 — Ananya G Shetty
 
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0d47a1,100:0a192f&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn"/></div> ```
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0d47a1,100:0a192f&height=100&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn"/></div> 
