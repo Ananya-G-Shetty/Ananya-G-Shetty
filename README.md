@@ -112,9 +112,20 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 
 ---
 
-## <img src="https://media.giphy.com/media/Obwc1cmgTxMVy/giphy.gif" width="28"/>     GitHub Analytics
-<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff"/> </a>  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff"/> </a><br/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8"/> </a><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ananya-G-Shetty&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff"/> </a>
-<br/><br/>
+## <img src="https://media.giphy.com/media/Obwc1cmgTxMVy/giphy.gif" width="28"/> GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff" alt="GitHub Streak"/>
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananya-G-Shetty&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</div>
   
 ---
   
@@ -124,7 +135,7 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 ---
 
 ## 🌱    Currently Learning
-<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192f?style=for-the-badge&logo=stackblitz&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
+<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-7c4dff?style=for-the-badge&logo=stackblitz&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
 
 ---
 
