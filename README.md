@@ -128,12 +128,12 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 ---
 
 ## 🌱    Currently Learning
-<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-7c4dff?style=for-the-badge&logo=stackblitz&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
+<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192?style=for-the-badge&logo=stackblitz&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>      Connect With Me
-<div align="center"><a href="https://ananya-shetty-g-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=netlify&logoColor=00e5ff"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-g-shetty/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyagshetty@example.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
+<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-g-shetty/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyagshetty@example.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
 
 ---
 
