@@ -1,306 +1,120 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ANANYA%20G%20SHETTY&fontSize=48&fontColor=F0F6FC&fontAlignY=38&desc=Information%20Science%20Student&descAlignY=58&descSize=20&descColor=60A5FA&color=0:0D1117,50:111827,100:2563EB" width="100%" alt="Ananya G Shetty"/>
-</p>
+Markdown
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+intelligent+experiences+with+AI;Turning+ideas+into+scalable+digital+solutions" alt="Typing animation"/>
-</p>
-
+<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Ananya-G-Shetty?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=1E293B" alt="GitHub followers"/>
+
+<a href="https://github.com/Ananya-G-Shetty">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d47a1,100:00e5ff&height=220&section=header&text=Ananya%20G.%20Shetty&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Information%20Science%20Engineer%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+</a>
+
+<a href="https://github.com/Ananya-G-Shetty">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Ananya+G.+Shetty;Information+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+Python+%2B+Java+Enthusiast;Cybersecurity+%7C+UI%2FUX+%7C+Hackathon+Builder;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ananya-G-Shetty&label=Profile%20views&color=0a192f&style=for-the-badge" alt="profile-views"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Cybersecurity-00e5ff?style=for-the-badge&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/Based%20in-Karnataka%2C%20India-7c4dff?style=for-the-badge&labelColor=0a192f" />
+
 </div>
 
-<br/>
-
 ---
 
-<!-- ================= CONNECT WITH ME ================ -->
-<h1 align="center">🤝 Connect With Me</h1>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-          <br><sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://github.com/Ananya-G-Shetty" target="_blank">
-          <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
-          <br><sub><b>GitHub</b></sub>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="mailto:ananyashetty925@gmail.com">
-          <img src="https://api.iconify.design/logos:google-gmail.svg" width="55" height="55" alt="Email"/>
-          <br><sub><b>Email</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 
-<br/>
+👩‍💻 name:       Ananya G. Shetty
+🎓 role:       Information Science & Engineering Student
+🏫 college:    Jawaharlal Nehru New College of Engineering (JNNCE)
+📍 location:   Karnataka, India
+💡 interests:  Web • Full-Stack • Python • Java • DSA • Cybersecurity • UI/UX
+⚡ mindset:    "Build practical things, learn deeply, ship consistently."
+I’m an ISE undergrad who genuinely enjoys writing code that solves real problems — from accessibility-first web platforms to SOC analyst dashboards and adaptive learning tools. I spend most of my time exploring modern web stacks, sharpening my problem-solving with DSA, and turning hackathon ideas into working prototypes.
 
----
+<br/><div align="center">
+🚀 Currently Building	🌱 Currently Learning	🎯 2025 Goals
+Accessible & AI-powered web apps	Django • Advanced Python • System Design	Master Full-Stack + DSA
+</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>   Tech Stack
+<div align="center">
+💻 Languages
+<p> <img src="https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Java-0a192f?style=for-the-badge&logo=openjdk&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/C-0a192f?style=for-the-badge&logo=c&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/HTML5-0a192f?style=for-the-badge&logo=html5&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/CSS3-0a192f?style=for-the-badge&logo=css3&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/> </p>
+🎨 Frontend
+<p> <img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Next.js-0a192f?style=for-the-badge&logo=next.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0a192f?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Responsive_Design-0a192f?style=for-the-badge&logo=responsive&logoColor=7c4dff"/> </p>
+⚙️ Backend
+<p> <img src="https://img.shields.io/badge/Flask-0a192f?style=for-the-badge&logo=flask&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/REST_APIs-0a192f?style=for-the-badge&logo=fastapi&logoColor=7c4dff"/> </p>
+🗄️ Databases
+<p> <img src="https://img.shields.io/badge/SQLite-0a192f?style=for-the-badge&logo=sqlite&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/MySQL-0a192f?style=for-the-badge&logo=mysql&logoColor=00e5ff"/> </p>
+🛠️ Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS_Code-0a192f?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Jupyter-0a192f?style=for-the-badge&logo=jupyter&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Figma-0a192f?style=for-the-badge&logo=figma&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Vercel-0a192f?style=for-the-badge&logo=vercel&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Netlify-0a192f?style=for-the-badge&logo=netlify&logoColor=00e5ff"/> </p>
+🧠 Core Concepts
+<p> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/OOP-0a192f?style=for-the-badge&logo=java&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/UI%2FUX_Design-0a192f?style=for-the-badge&logo=adobexd&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Cybersecurity-0a192f?style=for-the-badge&logo=hackthebox&logoColor=00e5ff"/> </p></div>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>   Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🏟️ StadiumSync AI
+Accessibility-first stadium experience platform for FIFA World Cup 2026.
 
-<!-- =================== TECH STACK ==================== -->
-<h1 align="center">🛠️ Tech Stack</h1>
+🌐 Multilingual assistance
+♿ Accessible navigation
+📍 Stadium info + amenity locator
+🚨 Emergency reporting
+Tech: Next.js · TypeScript · Gemini AI
 
-<br/>
+<a href="https://stadium-sync-ai-assistant-7ntq.vercel.app/"> <img src="https://img.shields.io/badge/🔗_Live_Demo-00e5ff?style=for-the-badge&logoColor=0a192f&labelColor=0a192f"/> </a></td> <td width="50%" valign="top">
+🛡️ ThreatMatrix
+A SOC analyst dashboard for real-time threat monitoring.
 
-<!-- =================== GenAI / LLMs ================== -->
-<h2 align="center">🤖 GenAI & LLMs</h2>
+🔴 Real-time threat monitoring
+⚔️ Attack simulation & log generation
+📊 Threat classification & timeline
+🧩 Business impact + response recommendations
+Tech: React · Tailwind CSS · Flask
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="55" height="55" alt="OpenAI"/>
-        <br><sub><b>OpenAI</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/logos:google-gemini.svg" width="55" height="55" alt="Gemini"/>
-        <br><sub><b>Gemini</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/logos:claude-icon.svg" width="55" height="55" alt="Claude"/>
-        <br><sub><b>Claude</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/simple-icons:groq.svg?color=%23F55036" width="55" height="55" alt="Groq"/>
-        <br><sub><b>Groq</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/logos:perplexity-icon.svg" width="55" height="55" alt="Perplexity"/>
-        <br><sub><b>Perplexity</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<img src="https://img.shields.io/badge/Cybersecurity-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td width="50%" valign="top">
+🧠 NeuroLearn — Adaptive Learning
+Flask-based platform designed for inclusive learning experiences.
 
-<br/>
+📝 Text simplification
+♿ Accessibility-focused UI
+🔤 OpenDyslexic font support
+📄 PDF-to-simplified content pipeline
+Tech: Python · Flask · NLTK · PyMuPDF
 
----
+<img src="https://img.shields.io/badge/Accessibility_First-00e5ff?style=for-the-badge&labelColor=0a192f"/></td> <td width="50%" valign="top">
+📚 Library Management System
+A Java Swing desktop application with full admin/student flow.
 
-<!-- ===================== LANGUAGES ==================== -->
-<h2 align="center">💻 Languages</h2>
+🔐 Admin / Student login
+📖 Book issuing & returns
+💰 Due-date + fine calculation
+🔍 Search & statistics dashboard
+Tech: Java Swing · SQLite
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-        <br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
-        <br><sub><b>C</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
-        <br><sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-        <br><sub><b>HTML</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-        <br><sub><b>CSS</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<img src="https://img.shields.io/badge/Desktop_App-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td colspan="2" valign="top">
+🎞️ Algorithm Visualizers
+Interactive simulators built to make algorithms feel visual and intuitive.
 
-<br/>
+<p> <img src="https://img.shields.io/badge/Bubble_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Merge_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Knapsack_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=7c4dff"/> </p></td> </tr> </table>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>   Achievements
+<div align="center"><table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏆-Class_Topper_Award-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Recognized as academic topper of the class</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/📊-CGPA_9.55-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Consistent academic excellence</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🥉-Code_Golf_3rd_Place-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Competitive coding challenge</b></sub> </td> </tr> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/💡-HackMalenadu'26-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Shortlisted team participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-Google_Build_with_AI-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Bootcamp + PromptWars participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🚀-Multiple_Hackathons-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Active builder & collaborator</b></sub> </td> </tr> </table></div>
+<img src="https://media.giphy.com/media/Obwc1cmgTxMVy/giphy.gif" width="28"/>   GitHub Analytics
+<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff"/> </a><br/><a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ananya-G-Shetty&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff"/> </a>
+<br/><br/>
 
----
+🏆 GitHub Trophies
+<a href="https://github.com/Ananya-G-Shetty"> <img src="https://github-profile-trophy.vercel.app/?username=Ananya-G-Shetty&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/> </a></div>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"/>   Contribution Activity
+<div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&bg_color=0a192f&color=00e5ff&line=7c4dff&point=ffffff&area=true&hide_border=true&custom_title=Ananya's%20Contribution%20Graph" alt="activity graph"/> </a></div>
+<img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"/>   Currently Learning
+<div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192f?style=for-the-badge&logo=stackblitz&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>   Connect With Me
+<div align="center"><a href="https://ananya-shetty-g-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=netlify&logoColor=00e5ff"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-g-shetty/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyagshetty@example.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
+<img src="https://media.giphy.com/media/2Je54ftbxWv3vhHEeS/giphy.gif" width="28"/>   A Note from Me
+<div align="center">
+"Every project I build is an attempt to blend clean design, thoughtful engineering, and real-world usefulness.
+I'm still early in my journey — but I'm learning fast, shipping often, and enjoying every bit of it."
 
-<!-- ================= WEB & APP DEV =================== -->
-<h2 align="center">🌐 Web & App Dev</h2>
+— Ananya G. Shetty
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
-        <br><sub><b>Flask</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/>
-        <br><sub><b>Flutter</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
-        <br><sub><b>Tailwind CSS</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
-
----
-
-<!-- ================= CLOUD & INFRA =================== -->
-<h2 align="center">☁️ Cloud & Infra</h2>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/>
-        <br><sub><b>Google Cloud</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
-        <br><sub><b>AWS</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
-
----
-
-<!-- ==================== DATABASES ==================== -->
-<h2 align="center">🗄️ Databases</h2>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-        <br><sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
-        <br><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"/>
-        <br><sub><b>SQLite</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
-
----
-
-<!-- ==================== DEV TOOLS ==================== -->
-<h2 align="center">🧰 Dev Tools</h2>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
-        <br><sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/>
-        <br><sub><b>Jupyter</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-        <br><sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" width="55" height="55" alt="GitHub"/>
-        <br><sub><b>GitHub</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
-
----
-
-<!-- ================ GITHUB ANALYTICS ================ -->
-<h1 align="center">📊 GitHub Analytics</h1>
-
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC&locale=en" alt="Ananya's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC&locale=en" alt="Ananya's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ananya-G-Shetty&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC&stroke=1F2937" alt="Ananya's GitHub Streak" width="75%"/>
-</p>
-
-<br/>
-
----
-
-<!-- ============== CONTRIBUTION ACTIVITY ============== -->
-<h1 align="center">📈 Contribution Activity</h1>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
-</p>
-
-<br/>
-
----
-
-<!-- ================== INSPIRATION ==================== -->
-<h1 align="center">💡 Inspiration</h1>
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
-
-<br/>
-
----
-
-<!-- ================= BUILDING STATUS ================= -->
-<h1 align="center">🚀 BUILDING</h1>
-
-<pre align="center">
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
-
-           BUILD  •  LEARN  •  CREATE  •  ITERATE
-</pre>
-
-<p align="center">
-  <i>Turning curiosity into code, and ideas into impact.</i>
-</p>
-
-<br/>
-
----
-
-<!-- ===================== FOOTER ====================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:111827,100:0D1117" width="100%" alt="Footer"/>
-</p>
-
-<p align="center">
-  <b>ANANYA G SHETTY</b>
-  <br>
-  <sub>Information Science Student</sub>
-</p>
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0d47a1,100:0a192f&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=20&fontColor=ffffff&animation=fadeIn"/></div> ```
