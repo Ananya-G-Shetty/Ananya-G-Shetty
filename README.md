@@ -21,17 +21,16 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-'''text
-👩‍💻 name:       Ananya G. Shetty 
-🎓 role:       Information Science & Engineering Student 
-🏫 college:    Jawaharlal Nehru New College of Engineering (JNNCE)
-📍 location:   Karnataka, India
-💡 interests:  Web • Full-Stack • Python • Java • DSA • Cybersecurity • UI/UX
-⚡ mindset:    "Build practical things, learn deeply, ship consistently."
+
+👩‍💻 name:       Ananya G. Shetty <br>
+🎓 role:       Information Science & Engineering Student <br>
+🏫 college:    Jawaharlal Nehru New College of Engineering (JNNCE)<br>
+📍 location:   Karnataka, India<br>
+💡 interests:  Web • Full-Stack • Python • Java • DSA • Cybersecurity • UI/UX <br>
+⚡ mindset:    "Build practical things, learn deeply, ship consistently." <br>
 I’m an ISE undergrad who genuinely enjoys writing code that solves real problems — from accessibility-first web platforms to SOC analyst dashboards and adaptive learning tools. I spend most of my time exploring modern web stacks, sharpening my problem-solving with DSA, and turning hackathon ideas into working prototypes.
 
 ---
-<br/>
 <table>
   <tr>
     <td align="center">🚀 <b>Currently Building</b><br/><br/>Accessible & AI-powered web apps</td>
@@ -39,8 +38,8 @@ I’m an ISE undergrad who genuinely enjoys writing code that solves real proble
     <td align="center">🎯 <b>2025 Goals</b><br/><br/>Master Full-Stack + DSA</td>
   </tr>
 </table>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>Tech Stack
+<br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>;Tech Stack
 <div align="center">
 💻 Languages
 <p> <img src="https://img.shields.io/badge/Python-0a192f?style=for-the-badge&logo=python&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Java-0a192f?style=for-the-badge&logo=openjdk&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/C-0a192f?style=for-the-badge&logo=c&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/HTML5-0a192f?style=for-the-badge&logo=html5&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/CSS3-0a192f?style=for-the-badge&logo=css3&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/> </p>
