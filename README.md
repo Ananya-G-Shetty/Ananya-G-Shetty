@@ -112,21 +112,25 @@ Interactive simulators built to make algorithms feel visual and intuitive. <br>
 
 ---
 
-## <img src="https://media.giphy.com/media/Obwc1cmgTxMVy/giphy.gif" width="28"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff" alt="GitHub Streak"/>
-  <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8" height="165" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananya-G-Shetty&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananya-G-Shetty&theme=nord&no-frame=true&no-bg=true&column=6" />
 </div>
-  
+
 ---
   
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"/>      Contribution Activity
