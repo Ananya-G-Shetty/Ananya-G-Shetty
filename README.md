@@ -227,30 +227,35 @@
 ---
 
 <!-- ================ GITHUB ANALYTICS ================ -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0"
-height="180"
-alt="GitHub Stats"
-/>
+<a href="https://github.com/Ananya-G-Shetty">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC&cache_seconds=21600"
+    height="180"
+    alt="Ananya's GitHub Stats"
+  />
+</a>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=E2E8F0"
-height="180"
-alt="Top Languages"
-/>
+<a href="https://github.com/Ananya-G-Shetty">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC&cache_seconds=21600"
+    height="180"
+    alt="Ananya's Top Languages"
+  />
+</a>
 
 </p>
 
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&hide_border=true&background=05070D&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0"
-width="70%"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC&stroke=1F2937&cache_seconds=21600"
+  width="70%"
+  alt="Ananya's GitHub Streak"
 />
 
 </p>
