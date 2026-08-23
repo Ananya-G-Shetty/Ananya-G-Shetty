@@ -79,7 +79,7 @@ A SOC analyst dashboard for real-time threat monitoring. <br><br>
 🧩 Business impact + response recommendations <br>
 Tech: React · Tailwind CSS · Flask <br>
 
-<a href="https://cyber-threat-detection-system.netlify.app/"><img src="https://img.shields.io/badge/Cybersecurity-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td width="50%" valign="top"><img src="https://img.shields.io/badge/🔗_Live_Demo-00e5ff?style=for-the-badge&logoColor=0a192f&labelColor=0a192f"/> </a></td> <td width="50%" valign="top">
+<a href="https://cyber-threat-detection-system.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td width="50%" valign="top">
 🧠** NeuroLearn — Adaptive Learning **<br>
 Flask-based platform designed for inclusive learning experiences. <br><br>
 
@@ -89,7 +89,7 @@ Flask-based platform designed for inclusive learning experiences. <br><br>
 📄 PDF-to-simplified content pipeline <br>
 Tech: Python · Flask · NLTK · PyMuPDF <br>
 
-<img src="https://img.shields.io/badge/Accessibility_First-00e5ff?style=for-the-badge&labelColor=0a192f"/></td> <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/🔗_Live_Demo-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> <td width="50%" valign="top">
 📚** Library Management System **<br>
 A Java Swing desktop application with full admin/student flow. <br> <br>
 
@@ -99,7 +99,7 @@ A Java Swing desktop application with full admin/student flow. <br> <br>
 🔍 Search & statistics dashboard <br>
 Tech: Java Swing · SQLite <br>
 
-<a href="https://drive.google.com/file/d/10ne7u9iQupLnIpxCjHXGwk7YIOtvJE_8/view?usp=sharing/"><img src="https://img.shields.io/badge/Desktop_App-7c4dff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td colspan="2" valign="top">
+<a href="https://drive.google.com/file/d/10ne7u9iQupLnIpxCjHXGwk7YIOtvJE_8/view?usp=sharing/"><img src="https://img.shields.io/badge/🔗_Live_Demo-00e5ff?style=for-the-badge&labelColor=0a192f"/></td> </tr> <tr> <td colspan="2" valign="top">
 🎞️** Algorithm Visualizers **<br>
 Interactive simulators built to make algorithms feel visual and intuitive. <br>
 
