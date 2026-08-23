@@ -227,19 +227,33 @@
 ---
 
 <!-- ================ GITHUB ANALYTICS ================ -->
-<h1 align="center">📊 GitHub Analytics</h1>
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0&border_color=0D1117" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_color=0D1117" height="180" alt="Top Languages"/>
-</p>
 
+<img
+src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=7DD3FC&text_color=E2E8F0"
+height="180"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=E2E8F0"
+height="180"
+alt="Top Languages"
+/>
+
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=F0F6FC&sideNums=F0F6FC" width="70%" alt="GitHub Streak"/>
-</p>
 
-<br/>
+<img
+src="https://streak-stats.demolab.com?user=Ananya-G-Shetty&hide_border=true&background=05070D&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0"
+width="70%"
+alt="GitHub Streak"
+/>
+
+</p>
 
 ---
 
