@@ -31,6 +31,7 @@
 I’m an ISE undergrad who genuinely enjoys writing code that solves real problems — from accessibility-first web platforms to SOC analyst dashboards and adaptive learning tools. I spend most of my time exploring modern web stacks, sharpening my problem-solving with DSA, and turning hackathon ideas into working prototypes.
 
 ---
+
 <table>
   <tr>
     <td align="center">🚀 <b>Currently Building</b><br/><br/>Accessible & AI-powered web apps</td>
@@ -41,6 +42,7 @@ I’m an ISE undergrad who genuinely enjoys writing code that solves real proble
 <br>
 
 ---
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>Tech Stack
 <div align="center">
 💻 Languages
@@ -55,6 +57,7 @@ I’m an ISE undergrad who genuinely enjoys writing code that solves real proble
 <p> <img src="https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS_Code-0a192f?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Jupyter-0a192f?style=for-the-badge&logo=jupyter&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Figma-0a192f?style=for-the-badge&logo=figma&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Vercel-0a192f?style=for-the-badge&logo=vercel&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Netlify-0a192f?style=for-the-badge&logo=netlify&logoColor=00e5ff"/> </p>
 🧠 Core Concepts
 <p> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/OOP-0a192f?style=for-the-badge&logo=java&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/UI%2FUX_Design-0a192f?style=for-the-badge&logo=adobexd&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/Cybersecurity-0a192f?style=for-the-badge&logo=hackthebox&logoColor=00e5ff"/> </p></div>
+
 ---
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>Featured Projects
@@ -105,24 +108,31 @@ Interactive simulators built to make algorithms feel visual and intuitive.
 <p> <img src="https://img.shields.io/badge/Bubble_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Merge_Sort_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Knapsack_Simulator-0a192f?style=for-the-badge&logo=algorithm&logoColor=7c4dff"/> </p></td> </tr> </table>
 
 ---
+
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>Achievements
 <div align="center"><table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🏆-Class_Topper_Award-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Recognized as academic topper of the class</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/📊-CGPA_9.55-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Consistent academic excellence</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🥉-Code_Golf_3rd_Place-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Competitive coding challenge</b></sub> </td> </tr> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/💡-HackMalenadu'26-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Shortlisted team participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🤖-Google_Build_with_AI-00e5ff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Bootcamp + PromptWars participant</b></sub> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/🚀-Multiple_Hackathons-7c4dff?style=for-the-badge&labelColor=0a192f"/><br/> <sub><b>Active builder & collaborator</b></sub> </td> </tr> </table></div>
+
 ---
+
 <img src="https://media.giphy.com/media/Obwc1cmgTxMVy/giphy.gif" width="28"/>   GitHub Analytics
 <div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&count_private=true&hide_border=true&bg_color=0a192f&title_color=00e5ff&icon_color=7c4dff&text_color=ffffff&ring_color=00e5ff"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-G-Shetty&hide_border=true&background=0a192f&stroke=00e5ff&ring=00e5ff&fire=7c4dff&currStreakLabel=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=00e5ff"/> </a><br/><a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff&langs_count=8"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ananya-G-Shetty&hide_border=true&bg_color=0a192f&title_color=00e5ff&text_color=ffffff"/> </a>
 <br/><br/>
+  
 ---
   
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"/>Contribution Activity
 <div align="center"><a href="https://github.com/Ananya-G-Shetty"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&bg_color=0a192f&color=00e5ff&line=7c4dff&point=ffffff&area=true&hide_border=true&custom_title=Ananya's%20Contribution%20Graph" alt="activity graph"/> </a></div>
+
 ---
 
 <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"/>Currently Learning
 <div align="center"><img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Full--Stack_Development-0a192f?style=for-the-badge&logo=stackblitz&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Django-0a192f?style=for-the-badge&logo=django&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/Advanced_Python-0a192f?style=for-the-badge&logo=python&logoColor=7c4dff"/> <img src="https://img.shields.io/badge/DSA-0a192f?style=for-the-badge&logo=leetcode&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/System_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=7c4dff"/></div>
+
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>Connect With Me
 <div align="center"><a href="https://ananya-shetty-g-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=netlify&logoColor=00e5ff"/> </a> <a href="https://github.com/Ananya-G-Shetty"> <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/ananya-g-shetty/"> <img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/> </a> <a href="mailto:ananyagshetty@example.com"> <img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=7c4dff"/> </a></div>
+
 ---
 
 <img src="https://media.giphy.com/media/2Je54ftbxWv3vhHEeS/giphy.gif" width="28"/>A Note from Me
