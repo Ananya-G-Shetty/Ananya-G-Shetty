@@ -128,10 +128,10 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
-        <br><sub><b>Flask</b></sub>
-      </td>
+       <td align="center" width="120">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
+  <br><sub><b>Flask</b></sub>
+</td>>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/>
         <br><sub><b>Flutter</b></sub>
@@ -230,16 +230,17 @@
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC&locale=en" alt="Ananya's GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC&locale=en" alt="Ananya's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ananya-G-Shetty&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=F0F6FC"
+    width="48%"
+    alt="Ananya's GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-G-Shetty&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=F0F6FC"
+    width="48%"
+    alt="Ananya's Top Languages"
+  />
 </p>
 
 <p align="center">
