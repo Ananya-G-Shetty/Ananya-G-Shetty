@@ -23,12 +23,12 @@
 <p align="center">
   <table align="center">
     <tr>
-     <td align="center" width="120">
-  <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
-    <br><sub><b>LinkedIn</b></sub>
-  </a>
-</td>>
+      <td align="center" width="120">
+        <a href="https://www.linkedin.com/in/ananya-shetty-76763b328/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+          <br><sub><b>LinkedIn</b></sub>
+        </a>
+      </td>
       <td align="center" width="120">
         <a href="https://github.com/Ananya-G-Shetty" target="_blank">
           <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
@@ -60,10 +60,10 @@
 <p align="center">
   <table align="center">
     <tr>
-  <td align="center" width="120">
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="55" height="55" alt="OpenAI"/>
-  <br><sub><b>OpenAI</b></sub>
-</td>
+      <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/>
+        <br><sub><b>OpenAI</b></sub>
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/>
         <br><sub><b>Gemini</b></sub>
@@ -73,9 +73,9 @@
         <br><sub><b>Claude</b></sub>
       </td>
       <td align="center" width="120">
-  <img src="https://images.seeklogo.com/logo-png/61/2/groq-logo-png_seeklogo-611926.png" width="55" height="55" alt="Groq"/>
-  <br><sub><b>Groq</b></sub>
-</td>
+        <img src="https://cdn.simpleicons.org/groq/F55036" width="55" height="55" alt="Groq"/>
+        <br><sub><b>Groq</b></sub>
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.simpleicons.org/perplexity/1FB8CD" width="55" height="55" alt="Perplexity"/>
         <br><sub><b>Perplexity</b></sub>
@@ -129,9 +129,9 @@
   <table align="center">
     <tr>
       <td align="center" width="120">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
-  <br><sub><b>Flask</b></sub>
-</td>>
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55" alt="Flask"/>
+        <br><sub><b>Flask</b></sub>
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter"/>
         <br><sub><b>Flutter</b></sub>
@@ -159,9 +159,9 @@
         <br><sub><b>Google Cloud</b></sub>
       </td>
       <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
-  <br><sub><b>AWS</b></sub>
-</td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+        <br><sub><b>AWS</b></sub>
+      </td>
     </tr>
   </table>
 </p>
@@ -261,7 +261,7 @@
 <h1 align="center">📈 Contribution Activity</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&bg_color=0D1117&color=7DD3FC&line=60A5FA&point=F0F6FC&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya-G-Shetty&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 </p>
 
 <br/>
@@ -272,7 +272,7 @@
 <h1 align="center">💡 Inspiration</h1>
 
 <p align="center">
-  <i>    "The best way to predict the future is to create it."</i>
+  <i>"The best way to predict the future is to create it."</i>
 </p>
 
 <br/>
